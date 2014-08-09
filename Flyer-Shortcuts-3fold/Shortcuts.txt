@@ -1,0 +1,128 @@
+File Menu
+=========
+
+New Project - Ctrl/Cmd + N
+Open Project - Ctrl/Cmd + O
+Close Project - Ctrl/Cmd + W
+Save Project - Ctrl/Cmd + S
+Save Project As... - <none on linux> should be Ctrl/Cmd + shift + S
+Exit Natron - <none> suggest Ctrl/Cmd + Q
+
+Edit Menu
+=========
+
+Preferences - <none> suggest Ctrl/Cmd + P
+Undo - Ctrl/Cmd + Z
+Redo - Ctrl/Cmd + shift + Z
+
+Display Menu
+============
+
+New Viewer - Ctrl/Cmd + I
+Toggle Full Screen - Meta+Ctrl/^Cmd + F
+
+Options Menu
+============
+
+Project Settings - S
+
+Render Menu
+===========
+
+Render all writers - F5
+Render selected node - F7
+
+Cache Menu
+==========
+
+Clear All Memory and Disk Caches - Ctrl/Cmd + shift + K
+
+
+NodeGraph
+=========
+
+Select all nodes - Ctrl/Cmd + A
+Select only visible nodes in the visible portion Ctrl/Cmd+shift+A
+Frame nodes - F
+Display parameters links - shift+e
+Expand and focus area - spacebar
+Copy - Ctrl/Cmd+C
+Cut - Ctrl/Cmd+X
+Paste - Ctrl/Cmd+V
+Duplicate - Alt+C
+Clone - Alt+K
+Declone - Alt+shift+K
+Switch inputs - shift+X
+Add Read node - R
+Add Write node - W
+Add Roto node - O
+Add ColorCorrect node - C
+Add Grade node - G
+Add Transform node - T
+Add Merge node - M
+Add node by name - tab
+
+Viewer
+======
+
+First frame - Ctrl/Cmd + Left
+Play backward - J
+Previous frame - Left
+Stop - K
+Next frame - Right
+Play forward - L
+Last frame - Ctrl/Cmd + right
+Previous keyframe - Ctrl/Cmd + shift + left
+Next keyframe - Ctrl/Cmd + shift + right
+Previous increment - shift + left
+Next increment - shift + right
+Scale and center image - F
+Clip image to project - shift + C
+Display Region of Definition - Shift+C
+Display Region of Interest - Shift+W
+Proxy mode - Ctrl/cmd P
+Refresh previews - P
+Expand and focus area - spacebar
+Force new render under current frame - U
+
+CurveEditor
+===========
+
+Edit
+
+Delete selected keyframes - backspace
+Copy selected keyframes - Ctrl/Cmd+C
+Paste to selected curve - Ctrl/Cmd+V
+Select all keyframes - Ctrl+A
+
+Interpolation
+
+Constant - K
+Linear - L
+Smooth - Z
+Catmull-Rom - R
+Cubic - C
+Horizontal - H
+Break - X
+
+View
+
+Frame seleted curve - F
+
+Roto node
+=========
+
+Selection tool - Q
+Add tanget points - D
+Ellipse/Rectangle/Bezier - V
+
+Continue to press to toogle through toolset.
+
+Tracker node
+============
+
+Track backwards - Z
+Track previous frame - X
+Track next frame - C
+Track forward - V
+Add new tracker - Ctrl/Cmd+Alt
